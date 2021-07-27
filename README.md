@@ -2,7 +2,10 @@
 
 <h3>🔥 Interested in what I do? Find some of my <a href="#projects">Open Source projects here</a>. 🔥</h3>
 
-# About me
+# Status
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nichealpham&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=nichealpham&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+
+# About
 
 I am a full-stack developer with over 5 years of experience in software development and capable of providing solid IT solutions for startups and small corporates. My strongest stacks are C# (.NET Core), Typescript, MSSQL, Nuxt.js. I am experienced with automation pipeline and source control from AWS, GCP, and Gitlab.
 
@@ -10,10 +13,7 @@ Although graduating with a bachelor's degree in Biomedical Engineering, I eventu
 
 Fast-moving environments hardened my soft skills in various fields including business development, product exhibitions, and planning development roadmap. Currently, I am managing a solid team of 3 other developers and together we do software freelancing.
 
-# Status
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nichealpham&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=nichealpham&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
-
-# Tech Stacks
+# Stacks
 <p align="center" style="margin-top:20px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px" height="25px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="25px">
