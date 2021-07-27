@@ -1,6 +1,8 @@
+<a href="https://ecg.gramme.io/" rel="nofollow"><img align="right" src="https://camo.githubusercontent.com/9b8b9f13ca703eb2c065225683524b2e78a8e4b215715e85b7d3eda7464d2ced/68747470733a2f2f6e69636865616c7068616d2e6769746875622e696f2f43617373616e6472612d70726f6a6563742f7075626c69632f696d616765732f737461727475702e706e67" alt="Markdownify" width="150" data-canonical-src="https://nichealpham.github.io/Cassandra-project/public/images/startup.png"></a>
+
 # Hello, I am Nicheal ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
-<a href="https://ecg.gramme.io/" rel="nofollow"><img align="right" src="https://camo.githubusercontent.com/9b8b9f13ca703eb2c065225683524b2e78a8e4b215715e85b7d3eda7464d2ced/68747470733a2f2f6e69636865616c7068616d2e6769746875622e696f2f43617373616e6472612d70726f6a6563742f7075626c69632f696d616765732f737461727475702e706e67" alt="Markdownify" width="140" data-canonical-src="https://nichealpham.github.io/Cassandra-project/public/images/startup.png" style="max-width:100%;"></a>
+
 
 <h3>🔥 Interested in what I do? Find some of my <a href="#projects">Open Source projects here</a>. 🔥</h3>
 
