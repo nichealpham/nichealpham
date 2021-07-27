@@ -15,16 +15,16 @@ Fast-moving environments hardened my soft skills in various fields including bus
 
 # Stacks
 <div align="left">
-  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg"/>
-  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
-  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vue.svg"/>
-  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/>
-  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eslint.svg"/>
-  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jasmine.svg"/>
-  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/>
-  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg"/>
-  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redis.svg"/>
+  <img width="35" style="margin-left:20px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg"/> 
+  <img width="35" style="margin-left:20px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/> 
+  <img width="35" style="margin-left:20px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vue.svg"/> 
+  <img width="35" style="margin-left:20px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/> 
+  <img width="35" style="margin-left:20px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eslint.svg"/> 
+  <img width="35" style="margin-left:20px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jasmine.svg"/> 
+  <img width="35" style="margin-left:20px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/> 
+  <img width="35" style="margin-left:20px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/> 
+  <img width="35" style="margin-left:20px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg"/> 
+  <img width="35" style="margin-left:20px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redis.svg"/> 
   
 </div>
 
