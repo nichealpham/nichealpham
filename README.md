@@ -14,15 +14,19 @@ Although graduating with a bachelor's degree in Biomedical Engineering, I eventu
 Fast-moving environments hardened my soft skills in various fields including business development, product exhibitions, and planning development roadmap. Currently, I am managing a solid team of 3 other developers and together we do software freelancing.
 
 # Stacks
-<p align="center" style="margin-top:20px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px" height="25px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="25px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="25px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="25px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="25px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="25px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="25px">
-</p>
+<div align="left">
+  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg"/>
+  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
+  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vue.svg"/>
+  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/>
+  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eslint.svg"/>
+  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jasmine.svg"/>
+  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
+  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/>
+  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg"/>
+  <img width="35" style="margin-left:10px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redis.svg"/>
+  
+</div>
 
 # Projects
 
