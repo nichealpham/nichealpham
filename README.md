@@ -1,4 +1,4 @@
-# Hello Everyone, I am Nicheal ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
+# Hello, I am Nicheal ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
 <h3>🔥 Interested in what I do? Find some of my <a href="#projects">Open Source projects here</a>. 🔥</h3>
 
