@@ -36,10 +36,13 @@ Fast-moving environments hardened my soft skills in various fields including bus
 
 This is a list of my most recent Open Source Projects
 
-1. 🌈 [HIS Composer](https://github.com/nichealpham/his-composer) - An open version of Health Information System for Clinics and Hospitals - [Demo](http://118.69.43.145:1012/index)
-2. 🔥 [Cassandra Ecg](https://github.com/nichealpham/cassandra-demo-app) - A web-based Electrocardiogram signal visualization tool - [Demo](https://ecg.gramme.io/#/)
-3. ⚡️ [Sandrasoft](https://www.npmjs.com/package/sandrasoft) - A Node package for creating scalable backend services - [Link](https://www.npmjs.com/package/sandrasoft)
-4. ⭐ [Open BOM](https://nichealpham.github.io/Open-Source-Projects/Bill-of-materials/#/) - A simple Bill of Material management website [Demo](https://nichealpham.github.io/Open-Source-Projects/Bill-of-materials/#/)
+### 1. 🌈 [HIS Composer](https://github.com/nichealpham/his-composer) - An open version of Health Information System for Clinics and Hospitals - [Demo](http://118.69.43.145:1012/index)
+
+### 2. 🔥 [Cassandra Ecg](https://github.com/nichealpham/cassandra-demo-app) - A web-based Electrocardiogram signal visualization tool - [Demo](https://ecg.gramme.io/#/)
+
+### 3. ⚡️ [Sandrasoft](https://www.npmjs.com/package/sandrasoft) - A Node package for creating scalable backend services - [Link](https://www.npmjs.com/package/sandrasoft)
+
+### 4. ⭐ [Open BOM](https://nichealpham.github.io/Open-Source-Projects/Bill-of-materials/#/) - A simple Bill of Material management website [Demo](https://nichealpham.github.io/Open-Source-Projects/Bill-of-materials/#/)
 
 <!-- ![ViewCount](https://views.whatilearened.today/views/github/nichealpham/views.svg) -->
 
