@@ -96,7 +96,6 @@ This is a list of my most recent Open Source Projects
 - [Top 10% students in Biomedical Engineering department](https://www.linkedin.com/in/nichealpham/)
 - [Full scholarship award for excellent academic performance](https://www.linkedin.com/in/nichealpham/)
 - [Salutatorian of International University, VNU](https://www.linkedin.com/in/nichealpham/)
-- [Skill Badges in Qwiklabs](https://www.linkedin.com/in/nichealpham/)
 - [National Bronze Medaln](https://www.linkedin.com/in/nichealpham/)
 
 # Skills
