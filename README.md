@@ -4,7 +4,7 @@
 
 
 
-<h3>🔥 Interested in what I do? Find some of my <a href="#projects">Open Source projects here</a>. 🔥</h3>
+<h3>🔥 Interested in what I do? Take a look at some of my <a href="#projects">Open Source projects here</a>. 🔥</h3>
 
 # Status
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nichealpham&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=nichealpham&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
