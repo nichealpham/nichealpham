@@ -89,9 +89,11 @@ This is a list of my most recent Open Source Projects
 
 # Associations
 
-- [A2DS Inc](https://a2ds.io) - Technical Architect Solution - <b>August 2020 - Present</b>
-- [Way OS](https://way.vn) - Technical Team Leader - <b>May 2020 - Present</b>
-- [Cassandra ECG](https://ecg.gramme.io/) - Founder, Open Sources Developer - <b>Jul 2018 - March 2019</b>
+### - [A2DS Inc](https://a2ds.io) - Technical Architect Solution - <b>August 2020 - Present</b>
+
+### - [Way OS](https://way.vn) - Technical Team Leader - <b>May 2020 - Present</b>
+
+### - [Cassandra ECG](https://ecg.gramme.io/) - Founder, Open Sources Developer - <b>Jul 2018 - March 2019</b>
 
 # Certifications & Publications
 
